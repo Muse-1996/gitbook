@@ -185,6 +185,7 @@
     * [协作程序（goroutine）](golang/ru-men/bing-fa/xie-zuo-cheng-xu-goroutine.md)
     * [通道（channel）](golang/ru-men/bing-fa/tong-dao-channel.md)
 * [Hugo](golang/hugo.md)
+* [再探channel](golang/zai-tan-channel.md)
 * [Beego](golang/beego/README.md)
   * [安装&升级](golang/beego/an-zhuang.md)
   * [创建项目](golang/beego/chuang-jian-xiang-mu.md)
