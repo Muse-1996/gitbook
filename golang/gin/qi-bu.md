@@ -8,7 +8,7 @@ go get -u github.com/gin-gonic/gin
 
 #### 简单使用
 
-```text
+```go
 package main
 
 import "github.com/gin-gonic/gin"
