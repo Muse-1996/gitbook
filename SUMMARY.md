@@ -224,6 +224,7 @@
 * [浅谈天赋玄学](sui-bi-wen-zhang/qian-tan-tian-fu-xuan-xue.md)
 * [2020裸辞历程](sui-bi-wen-zhang/2020-luo-ci-li-cheng.md)
 * [面向名词编程现象](sui-bi-wen-zhang/mian-xiang-ming-ci-bian-cheng-xian-xiang.md)
+* [Golang VS Node.js](sui-bi-wen-zhang/golang-vs-node.js.md)
 
 ## Others
 
