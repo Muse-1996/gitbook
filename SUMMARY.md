@@ -188,6 +188,7 @@
 * [再探channel](golang/zai-tan-channel.md)
 * [Gin](golang/gin/README.md)
   * [起步](golang/gin/qi-bu.md)
+  * [目录结构](golang/gin/mu-lu-jie-gou.md)
 * [Beego](golang/beego/README.md)
   * [安装&升级](golang/beego/an-zhuang.md)
   * [创建项目](golang/beego/chuang-jian-xiang-mu.md)
