@@ -225,6 +225,7 @@
 * [2020裸辞历程](sui-bi-wen-zhang/2020-luo-ci-li-cheng.md)
 * [面向名词编程现象](sui-bi-wen-zhang/mian-xiang-ming-ci-bian-cheng-xian-xiang.md)
 * [Golang VS Node.js](sui-bi-wen-zhang/golang-vs-node.js.md)
+* [如何快速上手新技术](sui-bi-wen-zhang/ru-he-kuai-su-shang-shou-xin-ji-shu.md)
 
 ## Others
 
