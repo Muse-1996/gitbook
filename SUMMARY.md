@@ -237,3 +237,8 @@
 
 * [关于我](about/guan-yu-wo.md)
 
+## AI
+
+* [《程序员的AI书》](ai/cheng-xu-yuan-de-ai-shu/README.md)
+  * [tensorflow安装](ai/cheng-xu-yuan-de-ai-shu/tensorflow-an-zhuang.md)
+
