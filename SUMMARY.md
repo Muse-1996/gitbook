@@ -48,6 +48,8 @@
   * [MongoDB数据库](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/mongodb-shu-ju-ku.md)
   * [Redis缓存](hou-duan-kai-fa/egg.js-qi-ye-ji-node-kuang-jia/redis-huan-cun.md)
 * [brew & Nginx](hou-duan-kai-fa/brew-nginx.md)
+* [Casbin](hou-duan-kai-fa/casbin/README.md)
+  * [起步](hou-duan-kai-fa/casbin/qi-bu.md)
 * [Node.js开发杂记](hou-duan-kai-fa/node.js-kai-fa-za-ji.md)
 * [Puppeteer爬虫开发](hou-duan-kai-fa/puppeteer-pa-chong-kai-fa.md)
 * [SuperAgent爬虫开发](hou-duan-kai-fa/superagent-pa-chong-kai-fa.md)
