@@ -1,4 +1,4 @@
-# 架构体&JSON
+# 结构体&JSON
 
 ```go
 package main
@@ -28,6 +28,11 @@ func main() {
 		return
 	}
 	fmt.Println(string(bt))  //{"name":"Muse","sex":1,"age":25}
+	
+	//反序列化
+	S := JsonMode{}
+	json.Unmarshal(bt,&S)
+	fmt.Println(S)
 }
 ```
 

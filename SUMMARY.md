@@ -172,7 +172,7 @@
     * [指针类型的接收器](golang/ru-men/jie-gou-ti/zhi-zhen-lei-xing-de-jie-shou-qi.md)
     * [为类型添加方法](golang/ru-men/jie-gou-ti/wei-lei-xing-tian-jia-fang-fa.md)
     * [类型内嵌和结构体内嵌](golang/ru-men/jie-gou-ti/lei-xing-nei-qian-he-jie-gou-ti-nei-qian.md)
-    * [架构体&JSON](golang/ru-men/jie-gou-ti/jia-gou-ti-json.md)
+    * [结构体&JSON](golang/ru-men/jie-gou-ti/jia-gou-ti-json.md)
   * [接口interface](golang/ru-men/jie-kou-interface-1/README.md)
     * [声明接口](golang/ru-men/jie-kou-interface-1/sheng-ming-jie-kou.md)
     * [实现接口的条件](golang/ru-men/jie-kou-interface-1/shi-xian-jie-kou-de-tiao-jian.md)
