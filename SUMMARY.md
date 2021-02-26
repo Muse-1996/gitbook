@@ -154,6 +154,7 @@
   * [goto](golang/ru-men/goto.md)
   * [break](golang/ru-men/break.md)
   * [continue](golang/ru-men/continue.md)
+  * [strconv包](golang/ru-men/strconv-bao.md)
   * [函数](golang/ru-men/han-shu/README.md)
     * [函数基本概念](golang/ru-men/han-shu/sheng-ming-han-shu.md)
     * [函数变量](golang/ru-men/han-shu/han-shu-bian-liang.md)
