@@ -139,3 +139,9 @@ VUE_APP_PUBLIC_PATH = "./"
 VUE_APP_QIANKUN_BASE = "/ctrl-vue"
 ```
 
+#### 8. 启动项目
+
+```text
+npm run serve //这里注意项目端口为9002
+```
+
