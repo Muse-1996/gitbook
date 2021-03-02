@@ -24,9 +24,6 @@ if (window.__POWERED_BY_QIANKUN__) {
 
 ```javascript
 //根目录下新建 .eslintrc.js
-// "off"或者0    //关闭规则关闭
-// "warn"或者1    //在打开的规则作为警告（不影响退出代码）
-// "error"或者2    //把规则作为一个错误（退出代码触发时为1）
 module.exports = {
     root: true,
     env: {
