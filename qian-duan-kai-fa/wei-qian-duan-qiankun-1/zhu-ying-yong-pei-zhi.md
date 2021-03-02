@@ -132,3 +132,11 @@ QK_START()
 </template>
 ```
 
+#### 8. 启动项目
+
+```text
+npm run serve
+```
+
+![](../../.gitbook/assets/image%20%2818%29.png)
+
