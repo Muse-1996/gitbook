@@ -24,6 +24,7 @@
 * [Promise基本写法](qian-duan-kai-fa/promise-ji-ben-xie-fa.md)
 * [snabbdom DEMO](qian-duan-kai-fa/snabbdom-demo.md)
 * [手册\库\文档](qian-duan-kai-fa/shou-ce-ku-wen-dang.md)
+* [微前端QianKun](qian-duan-kai-fa/wei-qian-duan-qiankun.md)
 * [Vue](qian-duan-kai-fa/vue/README.md)
   * [Vue工作机制](qian-duan-kai-fa/vue/vue-gong-zuo-ji-zhi.md)
   * [编译](qian-duan-kai-fa/vue/bian-yi.md)
