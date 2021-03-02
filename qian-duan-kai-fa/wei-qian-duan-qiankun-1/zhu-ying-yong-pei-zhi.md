@@ -18,12 +18,12 @@ cnpm i qiankun -S
 
 ```javascript
 const microApps = [{
-    name: "user-center-spa", //微应用的名称，微应用之间必须确保唯一
-    entry: "//localhost:9001", //微应用的入口
-    container: "#user-center-viewport", //微应用的容器节点的选择器或者 Element 实例
-    activeRule: "/sub-vue", //微应用的激活规则
+    name: "control-center-spa", //微应用的名称，微应用之间必须确保唯一
+    entry: "//localhost:9002", //微应用的入口
+    container: "#control-center-viewport", //微应用的容器节点的选择器或者 Element 实例
+    activeRule: "/ctrl-vue", //微应用的激活规则
     props: {
-        routerBase: "/sub-vue"
+        routerBase: "/ctrl-vue"
     }
 }];
 
@@ -124,10 +124,10 @@ QK_START()
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/sub-vue/">SubVue</router-link>
+      <router-link to="/ctrl-vue/">SubVue</router-link>
     </div>
     <router-view />
-    <div id="user-center-viewport"></div>
+    <div id="controller-center-viewport"></div>
   </div>
 </template>
 ```
