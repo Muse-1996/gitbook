@@ -83,6 +83,7 @@
 
 ## 移动端开发
 
+* [ADB](yi-dong-duan-kai-fa/adb.md)
 * [APICloud](yi-dong-duan-kai-fa/apicloud/README.md)
   * [APP崩溃日志查看](yi-dong-duan-kai-fa/apicloud/untitled.md)
   * [AVUE极速开发](yi-dong-duan-kai-fa/apicloud/avue-ji-su-kai-fa.md)
@@ -114,6 +115,8 @@
   * [创建插件](yi-dong-duan-kai-fa/flutter-cha-jian-kai-fa/chuang-jian-cha-jian.md)
   * [第一步](yi-dong-duan-kai-fa/flutter-cha-jian-kai-fa/di-yi-bu.md)
 * [Mark](yi-dong-duan-kai-fa/mark.md)
+* [Getx](yi-dong-duan-kai-fa/getx/README.md)
+  * [路由](yi-dong-duan-kai-fa/getx/lu-you.md)
 
 ## 桌面端开发
 
