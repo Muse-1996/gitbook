@@ -142,6 +142,7 @@
 * [格式化参考](golang/ge-shi-hua-can-kao.md)
 * [概念类](golang/gai-nian-lei.md)
 * [入门](golang/ru-men/README.md)
+  * [flag包](golang/ru-men/flag-bao.md)
   * [time包](golang/ru-men/time-bao.md)
   * [变量](golang/ru-men/bian-liang/README.md)
     * [整型](golang/ru-men/bian-liang/zheng-xing.md)
