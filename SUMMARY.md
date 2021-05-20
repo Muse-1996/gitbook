@@ -98,6 +98,7 @@
     * [v-card 简单的卡片样式](yi-dong-duan-kai-fa/apicloud/avue-shi-yong-shou-ce/vcard-jian-dan-de-ka-pian-yang-shi.md)
 * [Flutter](yi-dong-duan-kai-fa/flutter/README.md)
   * [Flutter版本管理](yi-dong-duan-kai-fa/flutter/flutter-ban-ben-guan-li.md)
+  * [AndroidStudio启动Flutter项目异常](yi-dong-duan-kai-fa/flutter/androidstudio-qi-dong-flutter-xiang-mu-yi-chang.md)
   * [APP应用名称设置](yi-dong-duan-kai-fa/flutter/app-ying-yong-ming-cheng-she-zhi.md)
   * [APP应用图标设置](yi-dong-duan-kai-fa/flutter/app-ying-yong-tu-biao-she-zhi.md)
   * [从零开发一款记账应用](yi-dong-duan-kai-fa/flutter/cong-ling-kai-fa-yi-kuan-ji-zhang-ying-yong.md)
