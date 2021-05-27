@@ -199,6 +199,7 @@
     * [通道（channel）](golang/ru-men/bing-fa/tong-dao-channel.md)
 * [Hugo](golang/hugo.md)
 * [再探channel](golang/zai-tan-channel.md)
+* [Build](golang/build.md)
 * [Gin](golang/gin/README.md)
   * [起步](golang/gin/qi-bu.md)
   * [目录结构](golang/gin/mu-lu-jie-gou.md)
