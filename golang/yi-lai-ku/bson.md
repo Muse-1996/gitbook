@@ -8,7 +8,7 @@
 
 `E`D中的一个元素
 
-BSON-&gt;M\D的映射关系
+### BSON ---&gt; M\D的映射关系
 
 | Bson | D or M |
 | :--- | :--- |
@@ -27,7 +27,14 @@ BSON-&gt;M\D的映射关系
 | code with scope 作用域代码 | primitive.CodeWithScope |
 | timestamp 时间戳 | primitive.Timestamp |
 
+### D/M ---&gt; BSON的映射关系
 
+| D or M | BSON |
+| :--- | :--- |
+| time.Time | datetime |
+| int8 int16 int32 | int32 |
+| 如果在MinInt32-MaxInt32之外 | int64 |
+| int64 | int64 |
 
 ```text
 embedded documenttimestamp
