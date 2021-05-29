@@ -8,6 +8,7 @@
 * [二、结构设计](xiang-mu-ji/er-jie-gou-she-ji.md)
 * [三、后端项目新建](xiang-mu-ji/san-hou-duan-xiang-mu-xin-jian.md)
 * [ServerLess云函数部署](xiang-mu-ji/serverless-yun-han-shu-bu-shu.md)
+* [Go+Flutter即时通讯](xiang-mu-ji/go+flutter-ji-shi-tong-xun.md)
 * [BattleBook](xiang-mu-ji/battlebook/README.md)
   * [APP](xiang-mu-ji/battlebook/app/README.md)
     * [fluro](xiang-mu-ji/battlebook/app/fluro.md)
