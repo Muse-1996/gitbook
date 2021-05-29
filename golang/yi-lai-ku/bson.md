@@ -8,6 +8,8 @@
 
 `E`D中的一个元素
 
+`Raw`用于验证和检索字节片中的元素
+
 ### BSON ---&gt; M\D的映射关系
 
 | Bson | D or M |
@@ -36,9 +38,5 @@
 | 如果在MinInt32-MaxInt32之外 | int64 |
 | int64 | int64 |
 
-```text
-embedded documenttimestamp
-primitive.ObjectID.
-regular expression unmarshals to a primitive.Regex.
-```
+
 
