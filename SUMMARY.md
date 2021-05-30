@@ -58,6 +58,8 @@
 * [Node.js开发杂记](hou-duan-kai-fa/node.js-kai-fa-za-ji.md)
 * [Puppeteer爬虫开发](hou-duan-kai-fa/puppeteer-pa-chong-kai-fa.md)
 * [SuperAgent爬虫开发](hou-duan-kai-fa/superagent-pa-chong-kai-fa.md)
+* [Mongo管道聚合](hou-duan-kai-fa/mongo-guan-dao-ju-he/README.md)
+  * [基础使用](hou-duan-kai-fa/mongo-guan-dao-ju-he/ji-chu-shi-yong.md)
 * [MySQL](hou-duan-kai-fa/mysql/README.md)
   * [连接数据库](hou-duan-kai-fa/mysql/lian-jie-shu-ju-ku.md)
   * [数据库操作](hou-duan-kai-fa/mysql/shu-ju-ku-cao-zuo.md)
