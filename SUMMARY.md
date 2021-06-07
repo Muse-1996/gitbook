@@ -61,6 +61,7 @@
 * [Mongo管道聚合](hou-duan-kai-fa/mongo-guan-dao-ju-he/README.md)
   * [基础使用](hou-duan-kai-fa/mongo-guan-dao-ju-he/ji-chu-shi-yong.md)
 * [MySQL](hou-duan-kai-fa/mysql/README.md)
+  * [数据类型](hou-duan-kai-fa/mysql/shu-ju-lei-xing.md)
   * [连接数据库](hou-duan-kai-fa/mysql/lian-jie-shu-ju-ku.md)
   * [数据库操作](hou-duan-kai-fa/mysql/shu-ju-ku-cao-zuo.md)
   * [数据表操作](hou-duan-kai-fa/mysql/shu-ju-biao-cao-zuo.md)
