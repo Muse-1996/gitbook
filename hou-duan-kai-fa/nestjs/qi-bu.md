@@ -21,5 +21,7 @@ npm run start
 
 ![](https://gitee.com/yunsinek_admin/upic/raw/master/uPic/2021-06-11/11/55-OZFmEI.png)
 
+本地[访问](http://localhost:3000)  `http://localhost:3000` 
+
 
 
