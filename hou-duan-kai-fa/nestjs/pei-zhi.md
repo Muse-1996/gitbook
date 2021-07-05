@@ -1,4 +1,4 @@
-# 配置
+# 环境变量配置
 
 ### 安装用于加载环境变量的依赖包
 
@@ -84,4 +84,41 @@ ConfigModule.forRoot({
     load: [Conf],
 }),
 ```
+
+### 测试获取环境变量数据
+
+使用vscode的nest插件生成User module目录，插件会自动组织依赖关系，结构如下
+
+src  
+--modules  
+----user  
+------user.controller.ts  
+------user.service.ts  
+------user.module.ts
+
+```typescript
+// user.controller.ts
+
+import { Get } from "@nestjs/common";
+import { Controller } from "@nestjs/common";
+import { ConfigService } from "@nestjs/config";
+
+@Controller("/user")
+export class UserController {
+  constructor(private configService: ConfigService) {}
+  
+  // 测试获取环境变量
+  @Get("load_env")
+  loadEnvData() {
+    return {
+      port: this.configService.get("port"),
+      db: this.configService.get("database"),
+    };
+  }
+}
+```
+
+### 测试结果
+
+![](../../.gitbook/assets/image%20%2837%29.png)
 
