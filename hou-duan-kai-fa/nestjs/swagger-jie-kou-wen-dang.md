@@ -103,13 +103,19 @@ username: string;
 @ApiResponse({ status: 200, description: "状态码" })
 ```
 
-6. ApiImplicitFile 可以用于文件上传的文档测试
+6. 文件上传的文档
 
 ```typescript
-@ApiImplicitFile({
-  name: '头像',
-  description: '上传头像',
-  required: false,
+@ApiBody({
+  schema: {
+    type: "object",
+    properties: {
+      file: {
+        type: "string",
+        format: "binary",
+      },
+    },
+  },
 })
 ```
 

@@ -73,6 +73,7 @@
   * [项目概览](hou-duan-kai-fa/nestjs/untitled.md)
   * [环境变量配置](hou-duan-kai-fa/nestjs/pei-zhi.md)
   * [Swagger接口文档](hou-duan-kai-fa/nestjs/swagger-jie-kou-wen-dang.md)
+  * [文件上传](hou-duan-kai-fa/nestjs/wen-jian-shang-chuan.md)
   * [静态访问](hou-duan-kai-fa/nestjs/jing-tai-fang-wen.md)
 * [Nginx 配置相关](hou-duan-kai-fa/nginx-pei-zhi-xiang-guan.md)
 * [Node.js配置跨域](hou-duan-kai-fa/node.js-pei-zhi-kua-yu.md)
