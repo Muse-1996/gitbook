@@ -37,6 +37,8 @@ bootstrap();
 
 这里访问[http://localhost:3000/doc](http://localhost:3000/doc)就可以请求到接口文档了
 
+相对应的json数据请求地址为[http://localhost:3000/doc-json](http://localhost:3000/doc-json)
+
 ### 自定义配置
 
 ```typescript
