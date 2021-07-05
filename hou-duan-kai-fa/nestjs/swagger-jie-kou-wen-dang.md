@@ -60,3 +60,56 @@ SwaggerModule.setup("doc", app, document, custom);
 其实这里的document就是json文件
 {% endhint %}
 
+### 配置装饰器
+
+swagger的配置装饰器都是以@api开头
+
+1.ApiTags装饰器，让对应的模块分类到对应的标签当中
+
+2. ApiQuery、ApiBody、ApiParam、ApiHeader、ApiHeaders
+
+```text
+name: string; // 该数据的名称，比如:id可以写用户id或者id
+description?: string; // 简介
+required?: boolean; // 是否是必须的
+type?: any; // 类型
+isArray?: boolean; // 是否是数组
+enum?: SwaggerEnumType; // 枚举类型
+collectionFormat?: "csv" | "ssv" | "tsv" | "pipes" | "multi";
+```
+
+3. ApiHeaders需要的对象只有三个参数
+
+```text
+name: string;
+description?: string;
+required?: boolean;
+```
+
+4. dto的参数配置ApiProperty
+
+```text
+@ApiProperty({
+    description: "用户名",
+    required: true,
+    default: "13800000000",
+})
+username: string;
+```
+
+5. ApiResponse
+
+```text
+@ApiResponse({ status: 200, description: "状态码" })
+```
+
+6. ApiImplicitFile 可以用于文件上传的文档测试
+
+```text
+@ApiImplicitFile({
+  name: '头像',
+  description: '上传头像',
+  required: false,
+})
+```
+
