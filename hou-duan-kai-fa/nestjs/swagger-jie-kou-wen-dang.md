@@ -88,7 +88,7 @@ required?: boolean;
 
 4. dto的参数配置ApiProperty
 
-```text
+```typescript
 @ApiProperty({
     description: "用户名",
     required: true,
@@ -99,13 +99,13 @@ username: string;
 
 5. ApiResponse
 
-```text
+```typescript
 @ApiResponse({ status: 200, description: "状态码" })
 ```
 
 6. ApiImplicitFile 可以用于文件上传的文档测试
 
-```text
+```typescript
 @ApiImplicitFile({
   name: '头像',
   description: '上传头像',
