@@ -56,3 +56,7 @@ const custom = {
 SwaggerModule.setup("doc", app, document, custom);
 ```
 
+{% hint style="info" %}
+其实这里的document就是json文件
+{% endhint %}
+
