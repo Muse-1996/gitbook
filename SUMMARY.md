@@ -71,6 +71,7 @@
 * [NestJS](hou-duan-kai-fa/nestjs/README.md)
   * [起步](hou-duan-kai-fa/nestjs/qi-bu.md)
   * [项目概览](hou-duan-kai-fa/nestjs/untitled.md)
+  * [配置](hou-duan-kai-fa/nestjs/pei-zhi.md)
 * [Nginx 配置相关](hou-duan-kai-fa/nginx-pei-zhi-xiang-guan.md)
 * [Node.js配置跨域](hou-duan-kai-fa/node.js-pei-zhi-kua-yu.md)
 * [NVM管理node版本](hou-duan-kai-fa/nvm-guan-li-node-ban-ben.md)
