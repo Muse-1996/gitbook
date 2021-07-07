@@ -48,5 +48,22 @@ export class UserService {
 }
 ```
 
+### JWT相关依赖安装
+
+```text
+npm install --save @nestjs/jwt passport-jwt
+npm install --save-dev @types/passport-jwt
+```
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 
 
