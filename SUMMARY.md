@@ -133,6 +133,7 @@
   * [Button](yi-dong-duan-kai-fa/flutter-bu-jian/button.md)
 * [Flutter Get Cli](yi-dong-duan-kai-fa/flutter-get-cli/README.md)
   * [安装](yi-dong-duan-kai-fa/flutter-get-cli/an-zhuang.md)
+  * [新建项目](yi-dong-duan-kai-fa/flutter-get-cli/xin-jian-xiang-mu.md)
 * [Flutter插件开发](yi-dong-duan-kai-fa/flutter-cha-jian-kai-fa/README.md)
   * [创建插件](yi-dong-duan-kai-fa/flutter-cha-jian-kai-fa/chuang-jian-cha-jian.md)
   * [第一步](yi-dong-duan-kai-fa/flutter-cha-jian-kai-fa/di-yi-bu.md)
